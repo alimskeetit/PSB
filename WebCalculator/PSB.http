@@ -1,0 +1,6 @@
+@PSB_HostAddress = http://localhost:5218
+
+GET {{PSB_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
